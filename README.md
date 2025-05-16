@@ -50,7 +50,7 @@
 - OEM-feloldás [állitsd be az időt meg a wifi-t]
 
 **sw**
-- microG, addonsu, Odin, SP Flash, Magisk, Qualcomm Flash, SN Writer, TWRP, ClockworkMod Recovery
+- microG, addonsu, Odin, SP Flash, Magisk, Qualcomm Flash, SN Writer, TWRP, ClockworkMod Recovery, Shizuku
 
 **Enemy at the Gates**
 - com.google.android.gm
