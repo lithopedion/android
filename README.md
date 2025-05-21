@@ -47,7 +47,7 @@
 **feltétel**
 - build number pötyögtetés > developer options
 - USB debugging vagy Wireless debugging
-- OEM-feloldás [állitsd be az időt meg a wifi-t]
+- OEM-feloldás [ha elvitte a cica, állitsd be az időt meg a wifi-t]
 
 **sw**
 - microG, addonsu, Odin, SP Flash, Magisk, Qualcomm Flash, SN Writer, TWRP, ClockworkMod Recovery, Shizuku
